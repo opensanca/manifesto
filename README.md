@@ -1,5 +1,4 @@
-![Opensanca](http://www.opensanca.com.br/img/logo-opensanca.png)
-
+![Opensanca](https://pbs.twimg.com/profile_images/612970307821764609/um0MzITq.jpg)
 # Opensanca - Manifesto
 
 > **Mantenedor:** [Cristofer Sousa](https://github.com/cristofersousa) | [Deyse Sande](https://github.com/deysesande)
