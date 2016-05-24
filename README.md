@@ -1,3 +1,5 @@
+![Opensanca](http://www.opensanca.com.br/img/logo-opensanca.png)
+
 # Opensanca - Manifesto
 
 > **Mantenedor:** [Cristofer Sousa](https://github.com/cristofersousa) | [Deyse Sande](https://github.com/deysesande)
@@ -116,4 +118,4 @@ Uma vez que uma empresa concorde em ceder um espaço, geralmente a mesma costuma
 
 *Este documento é "vivo" e será alterado com frequência. Sendo assim, recomendamos que fique sempre de olho para manter seu grupo sempre atualizado com as normas que visam única e exclusivamente, um encontro saudável para todos os envolvidos.*
 
-*** Este documento foi baseado no [FEMUG-SP](https://github.com/femug/femug) *
+>*** Este documento foi baseado no [FEMUG-SP](https://github.com/femug/femug) *
