@@ -33,7 +33,7 @@ Cada encontro deve ter seu tema decidido previamente pelo grupo, abrindo para su
 
 ### Ata do encontro
 
-A ata do encontro é um e-mail com tópicos, para compartilhar entre todos os participantes temas abordados, referências e links relevantes, quando for palestras, caso seja minicursos o conteúdo abordado apresentação do speaker deverá ser feito o caregamento no speakerdeck para consultas futura.
+A ata do encontro é um e-mail com tópicos, para compartilhar entre todos os participantes temas abordados, referências e links relevantes, quando for palestras, caso seja minicursos o conteúdo abordado apresentação do speaker deverá ser feito o carregamento no speakerdeck para consultas futuras.
 
 
 ### Local
@@ -74,9 +74,9 @@ A privacidade dos participantes é algo que devemos zelar por obrigação, e com
 
 ![Os sete passos da execução de uma reunião do Opensanca](http://i.imgur.com/3b5eomV.png)
 
-Este documento foi criado em cima da experiência adquirida na organização do então FEMUSP(que se tornou FEMUG-SP).
 
-### Como criar um FEMUG?
+
+### Como criar um comunidade Opensanca?
 
 Primeiro, leia este documento até o final (no mínimo) duas vezes. Quando terminar, leia o arquivo [CONTRIBUTING.md](https://github.com/opensanca/manifesto/blob/master/CONTRIBUTING.md); nele, encontrará informações de como contribuir. Depois, clone este repositório, altere os arquivos [LISTA.md](https://github.com/opensanca/manifesto/blob/master/LISTA.md).
 
@@ -102,7 +102,7 @@ No formulário de questões do Opensanca, existem as seguintes perguntas:
 * Sua empresa pode ceder um café para uma pausa, para todos os participantes?
 * Quais dias da semana você prefere que o encontro seja realizado?
 * Em qual horário?
-	* Recomendamos um encontro de três horas, começando a janela 19 hrs.
+* Recomendamos um encontro de três horas, começando a janela 19 hrs.
 * Observações gerais.
 
 
@@ -116,4 +116,4 @@ Uma vez que uma empresa concorde em ceder um espaço, geralmente a mesma costuma
 
 *Este documento é "vivo" e será alterado com frequência. Sendo assim, recomendamos que fique sempre de olho para manter seu grupo sempre atualizado com as normas que visam única e exclusivamente, um encontro saudável para todos os envolvidos.*
 
-*** Este documento foi baseado no [FEMUG-SP](https://github.com/femug/femug)
+*** Este documento foi baseado no [FEMUG-SP](https://github.com/femug/femug) *
