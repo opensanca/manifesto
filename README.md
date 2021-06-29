@@ -1,8 +1,42 @@
 # Manifesto do Opensanca
 
+## Motivação
+
+Criar um espaço aberto, inclusivo, democrático e sem fins lucrativos, que aproxima e incentiva a comunidade de TI de São Carlos e região.
+
+## Objetivos
+
+- Incentivar o crescimento em número e em competência, da comunidade de TI de São Carlos e região.
+- Unir a comunidade de tecnologia  
+- Aproximar aspirantes, universidades, profissionais e empresas. 
+
+## Como os alcançamos?
+
+- Oferecendo conteúdo e treinamentos gratuitos ou de baixo custo. 
+- Organizando espaços e eventos, online e offline, para integração e difusão de conhecimento.
+- Fazendo parcerias com universidades.
+- Fazendo parcerias com empresas, seja para divulgar oportunidades de trabalho ou para aculturar seus próprios profissionais com o restante da comunidade.
+
+## Como posso fazer parte?
+
+- Participando de espaços online como nosso slack ou nosso fórum.
+  - Fazendo perguntas
+  - Respondendo e auxiliando os outros
+  - Fomentando discussões
+- Divulgando nossos conteúdos e eventos.
+- Submeter temas para discussão no podcast.
+- Submeter artigos para publicação.
+- Patrocinando nossas iniciativas
+
+## Regras
+
+Em qualquer espaço do Opensanca é restrita a prática de qualquer preconceito ou discriminação de gênero, origem, assédio ou humilhação pública a qualquer pessoa.
+
 ## O que é?
 
-O Opensanca (_Open Source_ São Carlos) é um projeto que nasceu da necessidade de integrar os desenvolvedores (devs) do interior de São Paulo, com intuito de estreitar os profissionais independente da área de atuação. É a primeira e maior comunidade de tecnologia do [SancaHub](https://www.reportsancahub.com.br/).
+O Opensanca (_Open Source_ São Carlos) é um projeto que surgiu no eixo São Carlos - Araraquara, região rica em desenvolvedores graças a universidades como UFSCar, USP, IFSP entre outras que oferecem cursos de computação em geral. O projeto nasceu da necessidade de integrar os desenvolvedores (devs) do interior de São Paulo, com intuito de estreitar as relações entre profissionais independente da área de atuação. Devido à rápida atualização na área e lacuna entre a academia e o mercado, notamos a necessidade de compartilhamento tecnológico para facilitar o aprendizado, incentivar a inovação e manter toda a comunidade atualizada.
+
+É a primeira e maior comunidade de tecnologia do [SancaHub](https://www.reportsancahub.com.br/).
 
 O Opensanca é uma comunidade **SEM** fins lucrativos. Os organizadores **NÃO** visam lucro. Uma comunidade de tecnologia é formada por pessoas e todos nós somos a comunidade. Doamos nosso tempo por acreditar no potencial do coletivo.
 
@@ -29,10 +63,6 @@ Somos, portanto, uma comunidade para qualquer pessoa interessada em aprender, ev
 
 Nos importamos com a realização de eventos gratuitos ou de baixo custo, quando há necessidade de cobrir custos. Sim, **valorizamos os palestrantes** e, na medida do possível, cobrimos seus custos básicos.
 
-## Objetivos
-
-Unir e expandir a comunidade de tecnologia organizando espaços e eventos, online e offline, para integração e difusão de conhecimento. Aproximar profissionais, empresas e universidades. Oferecer apoio tecnológico com treinamento gratuito ou de baixo custo. Empresas que buscam parcerias, seja para divulgar oportunidades de trabalho ou para aculturar seus próprios profissionais com o restante da comunidade.
-
 ## História e Atividades
 
 O projeto visa oferecer oficinas, palestras, trilhas de desenvolvimento, artigos e _podcast_. Curadoria e promoção de conteúdos submetidos ao grupo (artigos, vídeos, etc), organização de eventos baseados nas necessidades da comunidade e administração de comunidade online. Dessa forma, fornecer todo o apoio e incentivo que os desenvolvedores necessitam, sejam recém-formados ou _devs_ já no mercado.
@@ -43,19 +73,7 @@ Os encontros seguintes aconteceram na Trampos S/A, na época localizada na R. Iw
 
 Com o tempo, diversas outras empresas e instituições foram abrindo suas portas e realizamos diversos encontros e trilhas, como Monitora, Uniara, IFSP, ICMC, Serasa, Arquivei, Liber, Global Labs, Exactaworks, Invillia, S2it, Cast Group, Wikilab, ONOVOLAB, dentre outras.
 
-Em qualquer evento é restrita a prática de qualquer preconceito ou discriminação em relação a qualquer pessoa que tenha interesse de aprender qualquer tecnologia. Da mesma forma para discriminação de gênero, origem, assédio ou humilhação pública.
-
-## O que pretendemos
-
-Ter um papel fundamental no crescimento, em número e em competência, da comunidade de TI da cidade e região. Esse projeto nasceu no eixo São Carlos - Araraquara, região rica em desenvolvedores graças a Universidades como UFSCar, USP, IFSP entre outras que oferecem cursos de Computação em geral. Devido à rápida atualização na área e lacuna entre a academia e o mercado, notamos a necessidade de compartilhamento tecnológico para facilitar o aprendizado e manter toda a comunidade atualizada, além de facilitar o encontro de novas oportunidades.
-
-## Motivação
-
-O Opensanca é uma forma de agir localmente para que os desenvolvedores se tornem mais competentes em relação à tecnologia. Ouvir opiniões diferentes, estudar casos de sucesso, contribuir com sua experiência, tudo isso é o que nos motiva.
-
-## Como posso fazer parte?
-
-Você pode participar das palestras, submeter palestras para apresentação, submeter temas para discussão no podcast, submeter artigos para publicação, auxiliar no Slack outros participantes, fomentar a discussão.
+## Referências
 
 \* Este documento foi baseado no [FEMUG-SP](https://github.com/femug/femug)
 
