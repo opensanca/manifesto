@@ -1,6 +1,6 @@
 # Manifesto do Opensanca
 
-## Motivação
+## Missão
 
 Criar um espaço aberto, inclusivo, democrático e sem fins lucrativos, que aproxima e incentiva a comunidade de TI de São Carlos e região.
 
@@ -28,9 +28,9 @@ Criar um espaço aberto, inclusivo, democrático e sem fins lucrativos, que apro
 - Submeter artigos para publicação.
 - Patrocinando nossas iniciativas
 
-## Regras
+## Código de ética
 
-Em qualquer espaço do Opensanca é restrita a prática de qualquer preconceito ou discriminação de gênero, origem, assédio ou humilhação pública a qualquer pessoa.
+A comunidade Opensanca repudia a prática de qualquer preconceito ou discriminação de gênero, origem, assédio ou humilhação pública a qualquer pessoa.
 
 ## O que é?
 
