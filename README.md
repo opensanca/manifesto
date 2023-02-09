@@ -2,7 +2,7 @@
 
 ## O que é?
 
-O Opensanca (_Open Source_ São Carlos) é um projeto que nasceu da necessidade de integrar os desenvolvedores (devs) do interior de São Paulo, com intuito de estreitar os profissionais independente da área de atuação. É a primeira e maior comunidade de tecnologia do [SancaHub](https://www.reportsancahub.com.br/).
+O [Opensanca](https://opensanca.com.br/) (_Open Source_ São Carlos) é um projeto que nasceu da necessidade de integrar os desenvolvedores (devs) do interior de São Paulo, com intuito de estreitar os profissionais independente da área de atuação. É a primeira e maior comunidade de tecnologia do [SancaHub](https://www.reportsancahub.com.br/).
 
 O Opensanca é uma comunidade **SEM** fins lucrativos. Os organizadores **NÃO** visam lucro. Uma comunidade de tecnologia é formada por pessoas e todos nós somos a comunidade. Doamos nosso tempo por acreditar no potencial do coletivo.
 
